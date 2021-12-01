@@ -1,0 +1,13 @@
+[package]
+name = "kiwoom"
+version = "0.1.0"
+edition = "2021"
+authors = [
+    "Junyeong Park <jyp10987@gmail.com>"
+]
+description = "Kiwoom OpenAPI for Rust"
+repository = "https://github.com/frechele/kiwoom-rs"
+
+license = "MIT"
+
+[dependencies]
